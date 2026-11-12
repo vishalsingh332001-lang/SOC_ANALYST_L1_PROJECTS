@@ -1,0 +1,20 @@
+# 🎟️ Incident Ticket: INC-84729 (Phishing Triage)
+
+**Assignee:** T Vishal Singh (Tier 1 SOC Analyst)  
+**Status:** Escalated to Tier 2  
+**Severity:** High  
+
+## Analyst Investigation Notes
+1. **Header Analysis:** Sender IP is `103.14.22.89`. SPF and DMARC checks failed. Email is spoofing our vendor.
+2. **Attachment Analysis:** Detonated `Invoice_Q3_Updated.xlsm` in Any.Run. Macro executed a hidden PowerShell command downloading `payload.exe`.
+3. **Impact Assessment:** User forwarded the email to security immediately and did **not** open the attachment. EDR logs confirm no execution on the host machine.
+
+## Extracted IoCs
+* **Sender IP:** `103.14.22.89` 
+* **Payload IP:** `185.199.108.153` 
+* **File Hash (SHA-256):** `a1b2c3d4e5f6g7h8i9j0123456789abcdef`
+
+## Actions Taken & Escalation
+* Purged email from recipient's inbox.
+* Blocked sender domain, IPs, and file hash globally.
+* **Escalated to Tier 2** for proactive threat hunting to ensure no other users received similar emails.
