@@ -1,5 +1,5 @@
 # SOC_ANALYST_L1_PROJECTS
-# **📧 SOC L1 Analyst Portfolio: Phishing Email Analysis & Alert Triage**
+# **SOC L1 Analyst Portfolio: Phishing Email Analysis & Alert Triage**
 
 **This repository contains the practical cybersecurity artifacts, playbooks, and ticketing documentation I completed to demonstrate SOC Tier 1 alert triage, email analysis, and incident escalation methodologies.**
 
@@ -37,7 +37,7 @@ The `/Artifacts` and `/Incident_Tickets` folders in this repository contain:
 
 ---
 
-## **📬 About Me & Contact**
+## ** About Me & Contact**
 * **Connect with me on LinkedIn:** **[www.linkedin.com/in/vishal-singh-b6aa32218]**
 * Contact No: 6302334628
 * **Location:** **Hyderabad, Telangana**
