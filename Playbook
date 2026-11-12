@@ -1,4 +1,4 @@
-# 📘 SOP: Suspicious Email / Phishing Triage Playbook
+# SOP: Suspicious Email / Phishing Triage Playbook
 
 **Version:** 1.2  
 **Target SLA:** 15 Minutes (Initial Triage) | 45 Minutes (Resolu#tion/Escalation)  
@@ -19,7 +19,7 @@
    * AbuseIPDB
 
 ## Phase 3: Payload Analysis (Links & Attachments)
-*⚠️ CAUTION: Never open attachments or click links on a production machine.*
+*CAUTION: Never open attachments or click links on a production machine.*
 
 1. **If URL / Link is Present:** 
    * Defang the URL for safe documentation (e.g., `http://malicious[.]com`).
