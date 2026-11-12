@@ -1,7 +1,7 @@
 # 📘 SOP: Suspicious Email / Phishing Triage Playbook
 
 **Version:** 1.2  
-**Target SLA:** 15 Minutes (Initial Triage) | 45 Minutes (Resolution/Escalation)  
+**Target SLA:** 15 Minutes (Initial Triage) | 45 Minutes (Resolu#tion/Escalation)  
 **Applies To:** Tier 1 SOC Analysts
 
 ## Phase 1: Initial Assessment & Alert Verification
