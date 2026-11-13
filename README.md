@@ -1,11 +1,11 @@
 
-# 📧 SOC L1 Analyst Portfolio: Phishing Email Analysis & Alert Triage
+#  SOC L1 Analyst Portfolio: Phishing Email Analysis & Alert Triage
 
 Welcome to my portfolio! I am a cybersecurity professional based in Hyderabad with three years of frontline experience in SOC Tier 1 operations. 
 
 During my time as a SOC L1 Analyst and Nesting SME, I learned that cybersecurity is rarely about relying solely on automated dashboard alerts—it is about digging into the raw data to uncover the truth. This repository showcases my daily methodology for investigating, triaging, and escalating suspicious threats before they compromise a network.
 
-## 🕵️‍♂️ The Investigation: Spear-Phishing Triage
+## The Investigation: Spear-Phishing Triage
 
 **The Scenario:** 
 A panicked end-user reported a highly suspicious email with the subject line: **"URGENT: Q3 Invoice Discrepancy."** The email pressured the user to open an attached Excel file or face immediate service suspension. 
@@ -27,7 +27,7 @@ Instead of taking the email at face value, I treated it as a live crime scene an
 
 ---
 
-## 📁 Inside This Repository
+##  Inside This Repository
 
 I built this repository to mirror a real-world SOC environment. Here is what you will find inside:
 
@@ -36,14 +36,14 @@ I built this repository to mirror a real-world SOC environment. Here is what you
 * **`/Incident_Tickets`:** My final escalation documentation (simulating a ServiceNow/Jira ticket), proving my ability to write clear, actionable intelligence reports for senior analysts.
 * **`/Images`:** Visual proof of my hands-on work navigating industry-standard OSINT and threat intelligence platforms.
 
-## 🛠️ My Tool Stack
+##  My Tool Stack
 * **Analysis & Sandboxing:** MXToolbox, Any.Run, manual header extraction
 * **Threat Intelligence:** VirusTotal, AbuseIPDB, URLScan.io
 * **Operations:** Splunk SIEM, Jira/ServiceNow ticketing, SANS Incident Response frameworks
 
 ---
 
-## 📬 Let's Connect
+##  Let's Connect
 I am actively seeking SOC Analyst roles where I can leverage my hands-on triage experience and passion for threat hunting. I am currently preparing for the **Microsoft SC-200 Security Operations Analyst** certification to further sharpen my SIEM engineering skills.
 
 * **Email:** vishalsingh332001@gmail.com
