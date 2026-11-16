@@ -1,6 +1,7 @@
 ## SOC Analyst L1 Portfolio
 
 # Email Phishing Investigation - Fake IT Support Password Expiry
+This repository documents a practical SOC L1 investigation of a suspicious email. It outlines the step-by-step process of analyzing email headers, checking IP reputation, and investigating malicious URLs to identify a credential harvesting attempt and extract IOCs for blocking.
 
 ## 1. Objective
 To analyze a suspicious email reporting a password expiry, determine if it is malicious, and extract indicators of compromise (IOCs) for blocking.
