@@ -20,7 +20,7 @@ Tool used: MXToolbox
 Note: SPF and DKIM passed because the attacker registered and controls the sending domain (helpdesk-update-portal.com).
 
 ### Originating IP
-- IP: 198.51.100.72
+- IP: 138.226.239.233
 - Checked against VirusTotal and AbuseIPDB.
 - Result: Flagged by 14 vendors for spam and phishing.
 
